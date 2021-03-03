@@ -12,7 +12,7 @@ namespace FizzBuzz
 
              //   15 - FizzBuzz..
 
-             for (int i = 0; i < 300; i++)
+             for (int i = 0; i < 100; i++)
              {
                  if (i % 15 == 0)
                  {
